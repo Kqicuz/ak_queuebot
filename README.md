@@ -1,11 +1,17 @@
 # ak_queuebot
 Simple queue bot for discord users to maintain small queues
 
-# Usage
+# Setup
 Step 1: Input your bot token in the config.json
 Step 2: Input your the user ids of the people you want to use the bot in the config.json
 Step 3: Install node.js recommended version on your computer
 Step 4: Open start.bat
+
+# Usage
+.queue-add (@user) (product name)
+.queue-remove (index)
+.queue-view
+.queue-clear
 
 # Extra Notes
 To change the command prefix, use line 3 in index.js
