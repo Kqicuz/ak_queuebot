@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord": "^0.8.2",
+    "discord.js": "^14.14.1",
+    "js": "^0.1.0"
+  }
+}
